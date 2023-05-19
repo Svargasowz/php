@@ -1,6 +1,11 @@
 <?php
+/* 9. Escribe un programa que tome una hora en formato "HH:MM" como entrada y
+muestre un mensaje diferente según la franja horaria utilizando el ciclo `match`. */
+
+//elejir la hora
 $numero = "11:00";
 
+//nombre de la hora y si es de madrugada o tarde etc
 $resultado = match (true){
     $numero === "01:00" => "una de la madrugada",
     $numero === "02:00" => "dos de la madrugada",

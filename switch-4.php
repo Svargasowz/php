@@ -1,6 +1,8 @@
 <?php
+//elejir la fecha
 $numero= '1-enero-2023';
 
+//las diferentes festividades segun la fecha
 $fecha =  match($numero){
     '1-enero-2023'=> 'Año nuevo',
     '8-marzo-2023'=> 'dia de la mujer',

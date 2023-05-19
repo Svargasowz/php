@@ -1,6 +1,8 @@
 <?php
+//elejir el numeor del mes
 $numero = 12;
 
+//segun el numeor elejido soltara el nombre del mes correspondiente
 $resultado = match (true){
     $numero === 1 => "ENERO",
     $numero === 2 => "FEBRERO",
@@ -14,7 +16,9 @@ $resultado = match (true){
     $numero === 10 => "OCTUBRE",
     $numero === 11 => "NOVIEMBRE",
     $numero === 12 => "DICIEMBRE",
+    //default es tipo por si alguien escribe un dato que no corresponda
     default => " no es una vocal ni una consonante"
 };
 
+//para mostrar//
 echo $resultado;

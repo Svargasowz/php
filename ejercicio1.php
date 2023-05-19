@@ -1,5 +1,7 @@
 <?php
+//ejercicio de comparacion numerica: escribe un programa que solicite al usuario que ingrese un numero luego el program debe imprimir si el numero ingresado es mayor menor o igual a 10 utilizando la sentencia if
 
+//numero 1 es el numero total y el numero2 es el numeor que cambiamos
 $numero1=10; 
 $numero2=10;
 

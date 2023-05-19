@@ -1,6 +1,8 @@
 <?php
+//numeor de dias
 $numero = 7;
 
+//segun el numero que elejimos y dira el nombre correspondiente
 $resultado = match (true){
     $numero === 1 => "lunes",
     $numero === 2 => "martes",
@@ -11,5 +13,5 @@ $resultado = match (true){
     $numero === 7 => "domingo",
     default => " no es una vocal ni una consonante"
 };
-
+//para mostrar el resultado
 echo $resultado;
