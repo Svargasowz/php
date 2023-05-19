@@ -1,4 +1,5 @@
 <?php
+//aqui se coloca el numero que queramos//
 $numero = 3;
 
 $resultado = match (true){
