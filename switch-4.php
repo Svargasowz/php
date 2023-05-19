@@ -1,4 +1,6 @@
 <?php
+//un programa que tome una fecha como entrada en formato dia mes año y muestre diferente el mes 
+
 //elejir la fecha
 $numero= '1-enero-2023';
 

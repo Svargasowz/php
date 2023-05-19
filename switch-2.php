@@ -1,4 +1,7 @@
 <?php
+//crea un programa que recibe el nombre de un color como entrada y muestreun mensaje diferente segun el color
+//utilizando el ciclo math
+
 //elegir el color
 $color = 'negro';
 

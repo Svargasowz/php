@@ -1,4 +1,6 @@
 <?php
+//crea un programa que reciba un numero del 1 al 12 como entrada y muestre el nombre del mes
+
 //elejir el numeor del mes
 $numero = 12;
 

@@ -1,4 +1,6 @@
 <?php
+ 
+
 //el numeor de la nota sacada
 $numero = 100;
 

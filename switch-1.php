@@ -1,4 +1,6 @@
 <?php
+//un programa que tome un numero entero como entrada y muestre un mensaje diferente dependiendode si el numero es 1 2 0 3 el ciclo macht
+
 //aqui se coloca el numero que queramos//
 $numero = 3;
 

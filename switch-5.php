@@ -1,4 +1,6 @@
 <?php
+//escribe un programa que tome un numero del 1 al 7 como entrada y muestre el nombre del dia de la semana
+
 //numeor de dias
 $numero = 7;
 
